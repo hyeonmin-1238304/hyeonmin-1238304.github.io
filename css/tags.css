@@ -1,0 +1,32 @@
+.about p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sites li{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+body{
+    text-align: center;
+}
+
+.pics{
+    margin: 100px 100px;
+}
+
+.cat {
+    float: left;
+    margin: 0 0 10px 10px;
+}
+
+.dog {
+    float: right;
+    margin: 0 0 10px 10px;
+}
