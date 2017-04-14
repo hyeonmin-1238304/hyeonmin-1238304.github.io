@@ -1,0 +1,9 @@
+.form-horizontal, header h2{
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+}
+
+legend{
+    width:100%
+}
