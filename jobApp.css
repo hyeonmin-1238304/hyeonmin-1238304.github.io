@@ -7,3 +7,17 @@
 legend{
     width:100%
 }
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+label{
+    font-size: 15px;
+}
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: lightgray
+}
